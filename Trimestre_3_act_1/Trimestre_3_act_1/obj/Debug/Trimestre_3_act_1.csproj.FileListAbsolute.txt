@@ -1,0 +1,7 @@
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\bin\Debug\Trimestre_3_act_1.exe.config
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\bin\Debug\Trimestre_3_act_1.exe
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\bin\Debug\Trimestre_3_act_1.pdb
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\obj\Debug\Trimestre_3_act_1.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\obj\Debug\Trimestre_3_act_1.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\obj\Debug\Trimestre_3_act_1.exe
+C:\Users\hecto\source\repos\Trimestre_3_act_1\Trimestre_3_act_1\obj\Debug\Trimestre_3_act_1.pdb
